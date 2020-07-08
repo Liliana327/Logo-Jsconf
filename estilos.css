@@ -1,0 +1,156 @@
+body, html {
+    height: 100%;
+  
+    }
+body {
+        height: 450px;
+        width:380px;
+        padding: 40px;
+        margin: 0 auto;
+        border: 1px solid #CFBA77;
+        margin-top: 100px;
+        background:#333;
+       
+    }
+
+.Triangulo_2 {
+        border-left: 65px solid transparent;
+        border-bottom: 60px solid #ffd633;
+        position: relative;
+        top: 69px;
+        transform:rotate(8deg)translate(25px, 1px)skew(-11deg);
+        left: 48px;
+        height: 0px;
+        width: 0px;
+    }
+
+.Triangulo_1 {
+       border-top: 150px solid #b3b300;
+       border-left: 40px solid transparent;
+       border-right: 15px solid transparent;	
+       position: relative ;
+       top: -100px;
+       transform:rotate(40deg)translate(75px, 30px)skew(-15deg);
+    }  
+
+.Triangulo_3 {
+        border-left: 5px solid transparent;
+        border-right: 40px solid transparent;
+        border-bottom: 60px solid #ffd633;
+        position: relative;
+        top: -272px;
+        transform:rotate(42deg)translate(30px, 23px)skew(26deg);
+        left:102px; 
+        width:150px;
+    }   
+ .Triangulo_12 {
+        border-left: 4px solid transparent;
+        border-right: 10px solid transparent;
+        border-bottom: 60px solid #ffd633;
+        position: relative;
+        top: -280px;
+        transform:rotate(40deg)translate(20px, -29px)skew(26deg);
+        left:102px; 
+        width:150px;
+    }
+
+.Triangulo_4 {
+        border-left: 4px solid transparent;  
+        border-right: 109px solid transparent;
+        border-bottom: 60px solid #b30000;
+        position: relative;
+        top: -246px;
+        transform:rotate(-51deg)translate(230px, 119px)skew(-39deg);
+        left:16px; 
+        width:0px;
+    }
+.Triangulo_11 {
+        border-left: 4px solid transparent;  
+        border-right: 109px solid transparent;
+        border-bottom: 60px solid #b30000;
+        position: relative;
+        top: -246px;
+        transform:rotate(-51deg)translate(212px, 81px)skew(-39deg);
+        left:16px; 
+        width:0px;
+    }
+
+.Triangulo_7{
+       border-top: 140px solid #ffd633;
+       border-left: 80px solid transparent;
+       border-right: 18px solid transparent;	
+       position: relative;
+       top: -245px;
+       transform:rotate(-172deg)translate(-316px, -14px)skew(-26deg);
+       left:-40px; 
+       width:20;
+    }
+
+.Triangulo_8{
+       border-top: 15px solid #b3b300;
+       border-left:px solid transparent;
+       border-right: 35px solid transparent;	
+       position: relative;
+       top: -386px;
+       transform:rotate(69deg)translate(359px, -247px)skew(57deg);
+       left:-40px; 
+    }
+
+.Triangulo_9{
+       border-bottom: 10px solid #DAA520;
+       border-left:30px solid transparent;
+       border-right: 15px solid transparent;	
+       position: relative;
+       top: -189px;
+       transform:rotate(234deg)translate(-196px, 210px)skew(61deg);
+       left:40px; 
+    }
+
+.Triangulo_10{
+       border-bottom: 19px solid #8B4513;
+       border-left:45px solid transparent;
+       border-right: 0px solid transparent;	
+       position: relative;
+       top: -199px;
+       transform:rotate(-350deg)translate(223px, -304px)skew(50deg);
+       left:40px; 
+
+    } 
+      
+.Triangulo_13{
+       border-bottom: 17px solid #ffd633;
+       border-left:30px solid transparent;
+       border-right: 1px solid transparent;	
+       position: relative;
+       top: -199px;
+       transform:rotate(-290deg)translate(-146px, -374px)skew(51deg);
+       left:40px; 
+   
+    } 
+
+.Triangulo_14 {
+       border-top: 150px solid;
+       border-left: 0px solid transparent;
+       border-right: 15px solid transparent;	
+       position: relative;
+       top: -100px;
+       transform:rotate(5deg)translate(176px, -280px)skew(-23deg);
+    }
+
+.Triangulo_15 {
+      height: 10px;
+      width: 1px;
+      border-left: 50px solid transparent;
+      border-right:30px solid transparent;
+      border-bottom: 108px solid blue;
+      position: relative;
+      top: 66px;
+      transform:rotate(-90deg)translate(520px, 150px)skew(52deg);
+      left:4px; 
+
+    }
+
+.Triangulo_1, .Triangulo_14, .Triangulo_13, .Triangulo_10, .Triangulo_9, .Triangulo_8,  .Triangulo_7 {
+  width: 0;
+  height:0;
+    }
